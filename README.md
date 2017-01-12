@@ -1,6 +1,6 @@
 # tensorflow_LD
 
-This project is an attempt to replicate a paper that used convolutional neural networks to replicate the performance of baboons in a lexical decision task [1]. The network takes an image of a string of characters as input and makes a binary decision about whether the string constitutes a word.
+This project is an attempt to replicate a paper that used convolutional neural networks to replicate the performance of baboons in a lexical decision task [1]. The network takes an image of a string of characters as input and makes a binary decision about whether the string constitutes a word. Also included is the code used to generate and load images of text from a list of words.
 
 Differences between this model and that used in the paper include:
 
